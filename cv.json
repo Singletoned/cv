@@ -1,0 +1,180 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Ed Singleton",
+    "label": "Senior Software Engineer",
+    "image": "",
+    "email": "singletoned@gmail.com",
+    "phone": "+44 77 5969 7174",
+    "summary": "",
+    "location": {
+      "city": "London",
+      "countryCode": "UK"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "Singletoned",
+        "url": "https://github.com/Singletoned"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "i.AI for Prime Ministers Delivery Unit, Cabinet Office",
+      "location": "Westminster, London",
+      "position": "Lead Technologist",
+      "description": "Disruptive development inside Government",
+      "startDate": "2022-04-01",
+      "endDate": "2023-06-31",
+      "summary": "",
+      "highlights": [
+        "Created and lead an internal consultancy of 10 people",
+        "Architecting and prototyping experimental web apps",
+        "Providing tech advice to X-Gov development projects",
+        "Building sustainably fast-paced practices, and developer-focussed libraries to support them",
+        "Team leading and mentoring",
+        "Tech used: Python, Django, Docker, CloudFoundry, Gov UK Design System, Postgresql"
+      ]
+    },
+    {
+      "name": "Covid Taskforce, Cabinet Office",
+      "location": "Westminster, London",
+      "description": "Saving the country, one chart at a time",
+      "position": "Lead Data Engineer",
+      "startDate": "2020-11-01",
+      "endDate": "2022-03-31",
+      "summary": "Architected and lead development of a Data Science platform for collecting data and rebuilding charts",
+      "highlights": [
+        "Architected and lead development on a system for rebuild charts",
+        "Scraped foreign Omicron data and got it onto the PM's desk within hours of asking",
+        "Trained and mentored data scientists in software engineering best practices",
+        "Tech used: Python, Pandas, Django, Celery, Docker, Postgresql, Scrapy, AWS"
+      ]
+    },
+    {
+      "name": "Institute for Apprenticeships",
+      "location": "Victoria, London",
+      "description": "Refactoring a large system built by non-developers",
+      "position": "Lead Python Developer",
+      "startDate": "2018-11-12",
+      "endDate": "2020-09-30",
+      "summary": "",
+      "highlights": [
+        "Refactored internal data science platform",
+        "Trained and mentored data scientists in software engineering best practices",
+        "Implemented agile development practices",
+        "Tech used: Python, Pandas, Django, Azure, Docker, Postgresql"
+      ]
+    },
+    {
+      "name": "Boston Consulting Group Digital Ventures / De Beers",
+      "location": "Soho, London",
+      "description": "Ethical artisanal diamond mining tracking app",
+      "position": "Tech Lead",
+      "startDate": "2017-12-04",
+      "endDate": "2018-08-03",
+      "summary": "",
+      "highlights": [
+        "Architected and built a system for handling asynchronous data from an offline first mobile application deployed to artisanal diamond miners in Africa",
+        "Built and supported backend app to receive data, handle buying of diamonds, and put data onto a sister blockchain app",
+        "Tech used: Python, GraphQL, Docker, CircleCI, Heroku, Azure, AWS"
+      ]
+    },
+    {
+      "name": "Department of International Trade",
+      "location": "Westminster, London",
+      "description": "Integrating data, prototyping websites",
+      "startDate": "2017-01-23",
+      "endDate": "2017-10-31",
+      "summary": "",
+      "highlights": [
+        "Worked on data collection project; engineering a data transformation and syncing service",
+        "Built website, and integrated with data-science platform, and UN Comtrade Data and WorldBank Data",
+        "Lead on 'dockerisation' of other websites",
+        "Tech used: Python, Docker, Pandas, Behave, Scrapy, Postgres, Redis, Jade, AWS"
+      ]
+    },
+    {
+      "name": "Hitachi Consulting",
+      "location": "Maidenhead, Berkshire",
+      "description": "Energy market trading prototype",
+      "startDate": "2015-11-16",
+      "endDate": "2016-09-30",
+      "summary": "",
+      "highlights": [
+        "Architected and developed a prototype energy trading platform, including algorithmic price predictions and energy balancing",
+        "Docker based micro-service deployment",
+        "Architected and developed a data science platform for parallel, distributed simulations of the platform against historical data",
+        "Architected and developed market simulator API to imitate market based on historical data",
+        "Lead on architecture, quality and mentoring",
+        "Tech used: Python, Docker, Django, Falcon, SQLAlchemy, Pandas, PuLP, Celery, RabbitMQ, Ansible, Fabric, BDD, PostgreSQL, Redis, Jenkins"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript"
+      ]
+    },
+    {
+      "name": "Compression",
+      "level": "Master",
+      "keywords": [
+        "Mpeg",
+        "MP4",
+        "GIF"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Wildlife",
+      "keywords": [
+        "Ferrets",
+        "Unicorns"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Miss Direction",
+      "description": "A mapping engine that misguides you",
+      "highlights": [
+        "Won award at AIHacks 2016",
+        "Built by all women team of newbie programmers",
+        "Using modern technologies such as GoogleMaps, Chrome Extension and Javascript"
+      ],
+      "keywords": [
+        "GoogleMaps",
+        "Chrome Extension",
+        "Javascript"
+      ],
+      "startDate": "2016-08-24",
+      "endDate": "2016-08-24",
+      "url": "missdirection.example.com",
+      "roles": [
+        "Team lead",
+        "Designer"
+      ],
+      "entity": "Smoogle",
+      "type": "application"
+    }
+  ],
+  "meta": {
+    "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
+    "version": "v1.0.0",
+    "lastModified": "2017-12-24T15:53:00"
+  }
+}
