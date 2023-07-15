@@ -1,7 +1,7 @@
 import pathlib
 
 import jinja2
-import pypug
+import pypugjs
 import yaml
 
 __here__ = pathlib.Path(__file__).parent
@@ -22,7 +22,8 @@ def render(data):
 
 
 def get_data(filepath):
-    data = yaml.safe_load(filepath)
+    with filepath.open() as f:
+        data = yaml.safe_load(f)
     return data
 
 
