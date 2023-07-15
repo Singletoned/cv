@@ -1,0 +1,49 @@
+doctype html
+html
+  head
+    meta(charset='utf-8')
+    meta(name='viewport' content='width=device-width,user-scalable=no,minimal-ui')
+    title {{basics.name}} - CV
+    style
+      include style.css
+
+    style(media='print').
+      body { font-size: 12px; }
+
+    link(href='http://fonts.googleapis.com/css?family=Open+Sans:400,600,700,300' rel='stylesheet' type='text/css')
+
+  body
+    #resume
+      section.heading
+        header
+          h1 {{basics.name}}
+          .contact
+            span.detail
+              a(href='mailto:{{basics.email}}') {{basics.email}}
+          .contact
+            span.detail {{basics.phone}}
+
+        for profile in basics.profiles
+          .profile
+            strong.network {{profile.network}}
+          span.username
+            a(href='{{profile.url}}') {{profile.url}}
+
+      section#skills
+        h2 Skills
+        for skill in skills
+          .item
+            .name {{item.name}}
+          .keywords {{item.keywords|join(", ")}}
+
+      section.experience
+        h2 Experience
+        for item in work
+          section.item
+            header {{item.name}}
+            span.position {{item.position}}
+            span.startDate {{item.startDate}}
+            span.endDate {{item.endDate}}
+            ul.highlights
+              for highlight in item.highlights
+                li {{highlight}}
