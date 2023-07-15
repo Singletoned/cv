@@ -4,8 +4,8 @@ html(lang="en")
     meta(charset='utf-8')
     meta(name='viewport' content='width=device-width,user-scalable=no,minimal-ui')
     title {{basics.name}} - CV
-    style
-      include style.css
+    style.
+      {% include 'style.css' %}
 
     style(media='print').
       body { font-size: 12px; }
