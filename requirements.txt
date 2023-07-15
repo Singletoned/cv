@@ -1,1 +1,3 @@
 pyyaml
+pypugjs
+jinja2
