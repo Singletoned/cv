@@ -18,8 +18,8 @@ basics:
 work:
 
 - name: i.AI for Prime Ministers Delivery Unit, Cabinet Office
+  position: Lead Technologist (Contract)
   location: Westminster, London
-  position: Lead Technologist
   description: Disruptive development inside Government
   startDate: '2022-04-01'
   endDate: '2023-06-31'
@@ -34,9 +34,9 @@ work:
   - 'Tech used: Python, Django, Docker, CloudFoundry, Gov UK Design System, Postgresql'
 
 - name: Covid Taskforce, Cabinet Office
+  position: Lead Data Engineer (Contract)
   location: Westminster, London
   description: Saving the country, one chart at a time
-  position: Lead Data Engineer
   startDate: '2020-11-01'
   endDate: '2022-03-31'
   summary: Architected and lead development of a Data Science platform for collecting
@@ -48,9 +48,9 @@ work:
   - "Tech used: Python, Pandas, Django, Celery, Docker, Postgresql, Scrapy, AWS"
 
 - name: Institute for Apprenticeships
+  position: Lead Python Developer (Contract)
   location: Victoria, London
   description: Refactoring a large system built by non-developers
-  position: Lead Python Developer
   startDate: '2018-11-12'
   endDate: '2020-09-30'
   summary: ''
@@ -61,9 +61,9 @@ work:
   - "Tech used: Python, Pandas, Django, Azure, Docker, Postgresql"
 
 - name: Boston Consulting Group Digital Ventures / De Beers
+  position: Lead Software Engineer (Contract)
   location: Soho, London
   description: Ethical artisanal diamond mining tracking app
-  position: Tech Lead
   startDate: '2017-12-04'
   endDate: '2018-08-03'
   summary: ''
@@ -73,6 +73,7 @@ work:
   - "Tech used: Python, GraphQL, Docker, CircleCI, Heroku, Azure, AWS"
 
 - name: Department of International Trade
+  position: Tech Lead (Contract)
   location: Westminster, London
   description: Integrating data, prototyping websites
   startDate: '2017-01-23'
