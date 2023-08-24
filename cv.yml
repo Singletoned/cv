@@ -31,7 +31,7 @@ work:
   - Building sustainably fast-paced practices, and developer-focussed libraries to
     support them
   - Team leading and mentoring
-  - 'Tech used: Python, Django, Docker, CloudFoundry, Gov UK Design System, Postgresql'
+  - 'Tech used: Python, Django, Docker, React, JavaScript, Postgresql, DevOps, Terraform, AWS'
 
 - name: Covid Taskforce, Cabinet Office
   position: Lead Data Engineer (Contract)
@@ -45,7 +45,7 @@ work:
   - Architected and lead development on a system for rebuild charts
   - Scraped foreign Omicron data and got it onto the PM's desk within hours of asking
   - Trained and mentored data scientists in software engineering best practices
-  - "Tech used: Python, Pandas, Django, Celery, Docker, Postgresql, Scrapy, AWS"
+  - "Tech used: Python, Pandas, Django, JavaScript, Celery, Docker, Postgresql, Scrapy, AWS, DevOps"
 
 - name: Institute for Apprenticeships
   position: Lead Python Developer (Contract)
@@ -58,7 +58,7 @@ work:
   - Refactored internal data science platform
   - Trained and mentored data scientists in software engineering best practices
   - Implemented agile development practices
-  - "Tech used: Python, Pandas, Django, Azure, Docker, Postgresql"
+  - "Tech used: Python, Pandas, Django, Azure, Docker, Postgresql, DevOps"
 
 - name: Boston Consulting Group Digital Ventures / De Beers
   position: Lead Software Engineer (Contract)
@@ -70,7 +70,7 @@ work:
   highlights:
   - Architected and built a system for handling asynchronous data from an offline first mobile application deployed to artisanal diamond miners in Africa
   - Built and supported backend app to receive data, handle buying of diamonds, and put data onto a sister blockchain app
-  - "Tech used: Python, GraphQL, Docker, CircleCI, Heroku, Azure, AWS"
+  - "Tech used: Python, GraphQL, JavaScript, React, Docker, CICD, Heroku, Azure, AWS"
 
 - name: Department of International Trade
   position: Tech Lead (Contract)
