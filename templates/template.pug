@@ -9,6 +9,7 @@ html(lang="en")
 
     style(media='print').
       body { font-size: 12px; }
+      section.item { page-break-inside: avoid; }
 
     link(href='http://fonts.googleapis.com/css?family=Open+Sans:400,600,700,300' rel='stylesheet' type='text/css')
 
@@ -28,13 +29,6 @@ html(lang="en")
             strong.network {{profile.network}}
           span.username
             a(href='{{profile.url}}') {{profile.url}}
-
-      section#skills
-        h2 Skills
-        for skill in skills
-          .item
-            .name {{skill.name}}
-          .keywords {{skill.keywords|join(", ")}}
 
       section.experience
         h2 Experience
