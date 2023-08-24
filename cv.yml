@@ -99,6 +99,75 @@ work:
   - Lead on architecture, quality and mentoring
   - "Tech used: Python, Docker, Django, Falcon, SQLAlchemy, Pandas, PuLP, Celery, RabbitMQ, Ansible, Fabric, BDD, PostgreSQL, Redis, Jenkins"
 
+- name: Digital Catapult
+  location: Kings Cross, London
+  position: Senior Python Developer (Contract)
+  startDate: '2015-11-16'
+  endDate: '2015-06-17'
+  highlights:
+  - "Tech used: Python, Tornado, BlazeGraph, RDF, Behave, Flask, Bamboo, Docker, AWS"
+
+- name: Global Radio
+  location: Leicester Square, London
+  position: Senior Python Developer (Contract)
+  startDate: '2014-11-11'
+  endDate: '2015-06-16'
+  highlights:
+  - "Tech used: Python, Django, Docker, Celery, ElasticSearch, Memcached, MySQL"
+
+- name: Streetbees
+  location: City of London, London
+  position: Head of Development
+  startDate: '2014'
+  endDate: '2014'
+  highlights:
+  - "Tech used: Python, Docker, Postgres, Redis, Celery, AWS"
+
+- name: Believe.in
+  location: Whitechapel, London
+  position: Head of Development
+  startDate: '2014'
+  endDate: '2014'
+  highlights:
+  - "Tech used: Python, Django, Memcache, PostgreSQL, Pandas, Stripe, AWS"
+
+- name: Newman Online
+  location: Soho, London
+  position: Senior Python Developer
+  startDate: '2009'
+  endDate: '2014'
+
+- name: Large Blue
+  location: Covent Garden, London
+  position: Technical Director
+  startDate: '2008'
+  endDate: '2009'
+
+- name: Make Your Mark Campaign
+  location: Covent Garden, London
+  position: Web Manager
+  startDate: '2006'
+  endDate: '2008'
+
+- name: Misys
+  location: Wimbledon, London
+  position: Web Manager
+  startDate: '2005'
+  endDate: '2006'
+
+- name: Talent Campaign
+  location: Poplar, London
+  position: Web Manager
+  startDate: '2001'
+  endDate: '2005'
+
+- name: StartPoint
+  location: Stoke-on-Trent
+  position: Web Developer
+  startDate: '1998'
+  endDate: '2001'
+
+
 skills:
 - name: Python Development
   level: Master
