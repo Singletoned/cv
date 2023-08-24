@@ -100,6 +100,12 @@ work:
   - "Tech used: Python, Docker, Django, Falcon, SQLAlchemy, Pandas, PuLP, Celery, RabbitMQ, Ansible, Fabric, BDD, PostgreSQL, Redis, Jenkins"
 
 skills:
+- name: Python Development
+  level: Master
+  keywords:
+  - Python
+  - Git
+  - Emacs
 - name: Web Development
   level: Master
   keywords:
