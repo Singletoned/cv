@@ -1,7 +1,6 @@
 import pathlib
 
 import jinja2
-import pypugjs
 import yaml
 
 __here__ = pathlib.Path(__file__).parent
