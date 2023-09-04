@@ -25,7 +25,7 @@ work:
   endDate: '2023-08-31'
   summary: ''
   highlights:
-  - Created and lead an internal consultancy of 10 people
+  - Created and led an internal consultancy of 10 people
   - Architecting and prototyping experimental web apps
   - Providing tech advice to X-Gov development projects
   - Building sustainably fast-paced practices, and developer-focussed libraries to
@@ -39,10 +39,10 @@ work:
   description: Saving the country, one chart at a time
   startDate: '2020-11-01'
   endDate: '2022-03-31'
-  summary: Architected and lead development of a Data Science platform for collecting
+  summary: Architected and led development of a Data Science platform for collecting
     data and rebuilding charts
   highlights:
-  - Architected and lead development on a system for rebuild charts
+  - Architected and led development on a system for rebuild charts
   - Scraped foreign Omicron data and got it onto the PM's desk within hours of asking
   - Trained and mentored data scientists in software engineering best practices
   - "Tech used: Python, Pandas, Django, JavaScript, Celery, Docker, Postgresql, Scrapy, AWS, DevOps"
@@ -82,7 +82,7 @@ work:
   highlights:
   - Worked on data collection project; engineering a data transformation and syncing service
   - Built website, and integrated with data-science platform, and UN Comtrade Data and WorldBank Data
-  - Lead on 'dockerisation' of other websites
+  - Led on dockerisation of other websites
   - "Tech used: Python, Docker, Pandas, Behave, Scrapy, Postgres, Redis, Jade, AWS"
 
 - name: Hitachi Consulting
@@ -96,7 +96,7 @@ work:
   - Docker based micro-service deployment
   - Architected and developed a data science platform for parallel, distributed simulations of the platform against historical data
   - Architected and developed market simulator API to imitate market based on historical data
-  - Lead on architecture, quality and mentoring
+  - Led on architecture, quality and mentoring
   - "Tech used: Python, Docker, Django, Falcon, SQLAlchemy, Pandas, PuLP, Celery, RabbitMQ, Ansible, Fabric, BDD, PostgreSQL, Redis, Jenkins"
 
 - name: Digital Catapult
