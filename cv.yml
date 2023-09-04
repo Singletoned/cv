@@ -31,7 +31,7 @@ work:
   - Building sustainably fast-paced practices, and developer-focussed libraries to
     support them
   - Team leading and mentoring
-  - 'Tech used: Python, Django, Docker, React, JavaScript, Postgresql, DevOps, Terraform, AWS'
+  - 'Tech used: Python, Django, Docker, React, JavaScript, PostgreSQL, DevOps, Terraform, AWS'
 
 - name: Covid Taskforce, Cabinet Office
   position: Lead Data Engineer (Contract)
@@ -45,7 +45,7 @@ work:
   - Architected and led development on a system for rebuild charts
   - Scraped foreign Omicron data and got it onto the PM's desk within hours of asking
   - Trained and mentored data scientists in software engineering best practices
-  - "Tech used: Python, Pandas, Django, JavaScript, Celery, Docker, Postgresql, Scrapy, AWS, DevOps"
+  - "Tech used: Python, Pandas, Django, JavaScript, Celery, Docker, PostgreSQL, Scrapy, AWS, DevOps"
 
 - name: Institute for Apprenticeships
   position: Lead Python Developer (Contract)
@@ -58,7 +58,7 @@ work:
   - Refactored internal data science platform
   - Trained and mentored data scientists in software engineering best practices
   - Implemented agile development practices
-  - "Tech used: Python, Pandas, Django, Azure, Docker, Postgresql, DevOps"
+  - "Tech used: Python, Pandas, Django, Azure, Docker, PostgreSQL, DevOps"
 
 - name: Boston Consulting Group Digital Ventures / De Beers
   position: Lead Software Engineer (Contract)
@@ -83,7 +83,7 @@ work:
   - Worked on data collection project; engineering a data transformation and syncing service
   - Built website, and integrated with data-science platform, and UN Comtrade Data and WorldBank Data
   - Led on dockerisation of other websites
-  - "Tech used: Python, Docker, Pandas, Behave, Scrapy, Postgres, Redis, Jade, AWS"
+  - "Tech used: Python, Docker, Pandas, Behave, Scrapy, PostgreSQL, Redis, Jade, AWS"
 
 - name: Hitachi Consulting
   location: Maidenhead, Berkshire
@@ -121,7 +121,7 @@ work:
   startDate: '2014'
   endDate: '2014'
   highlights:
-  - "Tech used: Python, Docker, Postgres, Redis, Celery, AWS"
+  - "Tech used: Python, Docker, PostgreSQL, Redis, Celery, AWS"
 
 - name: Believe.in
   location: Whitechapel, London
