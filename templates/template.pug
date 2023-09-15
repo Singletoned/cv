@@ -34,7 +34,7 @@ html(lang="en")
         h2 Experience
         for item in work
           section.item
-            header {{item.name}}
+            h3 {{item.name}}
             span.position {{item.position}}
             span.startDate {{format_date(item.startDate)}}
             |  to 

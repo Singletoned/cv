@@ -140,3 +140,9 @@
               width: 49.5%;
               border-bottom: 0;
             }
+
+            .experience h3 {
+              font-size: 140%;
+              margin: 0;
+              font-weight: 400;
+            }
