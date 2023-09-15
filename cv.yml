@@ -49,7 +49,7 @@ work:
 - name: Institute for Apprenticeships
   position: Lead Python Developer (Contract)
   location: Victoria, London
-  description: Refactoring a large system built by non-developers
+  description: Refactoring a large system built by non-engineers
   startDate: 2018-11-12
   endDate: 2020-09-30
   summary: ''
@@ -102,6 +102,7 @@ work:
 - name: Digital Catapult
   location: Kings Cross, London
   position: Senior Python Developer (Contract)
+  description: Graph database for copyright licences
   startDate: 2015-11-16
   endDate: 2015-06-17
   highlights:
@@ -110,6 +111,7 @@ work:
 - name: Global Radio
   location: Leicester Square, London
   position: Senior Python Developer (Contract)
+  description: Websites for radio stations
   startDate: 2014-11-11
   endDate: 2015-06-16
   highlights:
@@ -118,6 +120,7 @@ work:
 - name: Streetbees
   location: City of London, London
   position: Head of Development
+  description: MVP for human intelligence platform
   startDate: '2014'
   endDate: '2014'
   highlights:
@@ -126,6 +129,7 @@ work:
 - name: Believe.in
   location: Whitechapel, London
   position: Head of Development
+  description: MVP for charity donation site
   startDate: '2014'
   endDate: '2014'
   highlights:
