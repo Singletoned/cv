@@ -23,6 +23,8 @@ html(lang="en")
               a(href='mailto:{{basics.email}}') {{basics.email}}
           .contact
             span.detail {{basics.phone}}
+          .contact
+            span.detail {{basics.location.city}}, {{basics.location.countryCode}}
 
         for profile in basics.profiles
           .profile
