@@ -37,12 +37,11 @@ work:
   position: Lead Python Developer (Contract)
   location: Westminster, London
   description: Saving the country, one chart at a time
-  summary: Architected and led development of a data science platform for collecting
-    data and building charts
   startDate: 2020-11-01
   endDate: 2022-03-31
+  summary: ''
   highlights:
-  - Architected and led development on a complex data science microservices platform
+  - Architected and led development of a data science platform for collecting data and building charts
   - Scraped foreign Omicron data and got it onto the PM's desk within hours of asking
   - Trained and mentored data scientists in software engineering best practices
   - "Tech used: Python, Pandas, Django, JavaScript, Celery, Redis, Docker, PostgreSQL, REST, FastAPI, SQLAlchemy, AWS, microservices"
