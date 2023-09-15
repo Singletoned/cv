@@ -35,10 +35,14 @@ html(lang="en")
         for item in work
           section.item
             h3 {{item.name}}
-            span.position {{item.position}}
-            span.startDate {{format_date(item.startDate)}}
-            |  to 
-            span.endDate {{format_date(item.endDate)}}
+            div
+              span.position {{item.position}}
+              span.startDate {{format_date(item.startDate)}}
+              |  to 
+              span.endDate {{format_date(item.endDate)}}
+            if item.description:
+              div
+                span.description {{item.description}}
             ul.highlights
               for highlight in item.highlights
                 li {{highlight}}
