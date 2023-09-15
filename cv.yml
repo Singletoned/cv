@@ -31,7 +31,7 @@ work:
   - Building sustainably fast-paced practices, and developer-focussed libraries to
     support them
   - Team leading and mentoring
-  - 'Tech used: Python, Django, Docker, React, JavaScript, PostgreSQL, DevOps, Terraform, AWS'
+  - 'Tech used: Python, Django, Docker, React, JavaScript, REST, PostgreSQL, DevOps, Terraform, AWS'
 
 - name: Covid Taskforce, Cabinet Office
   position: Lead Data Engineer (Contract)
@@ -45,7 +45,7 @@ work:
   - Architected and led development on a system for rebuild charts
   - Scraped foreign Omicron data and got it onto the PM's desk within hours of asking
   - Trained and mentored data scientists in software engineering best practices
-  - "Tech used: Python, Pandas, Django, JavaScript, Celery, Docker, PostgreSQL, REST, FastAPI, AWS, Microservices"
+  - "Tech used: Python, Pandas, Django, JavaScript, Celery, Redis, Docker, PostgreSQL, REST, FastAPI, SQLAlchemy, AWS, microservices"
 
 - name: Institute for Apprenticeships
   position: Lead Python Developer (Contract)
@@ -98,7 +98,7 @@ work:
   - Architected and developed a data science platform for parallel, distributed simulations of the platform against historical data
   - Architected and developed market simulator API to imitate market based on historical data
   - Led on architecture, quality and mentoring
-  - "Tech used: Python, Docker, Django, REST, SQLAlchemy, Pandas, PuLP, Celery, RabbitMQ, Ansible, PostgreSQL, Redis, Jenkins, AWS, microservices"
+  - "Tech used: Python, Docker, Django, REST, SQLAlchemy, Pandas, Celery, RabbitMQ, Ansible, PostgreSQL, Redis, Jenkins, AWS, microservices"
 
 - name: Digital Catapult
   location: Kings Cross, London
