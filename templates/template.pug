@@ -36,9 +36,9 @@ html(lang="en")
           section.item
             header {{item.name}}
             span.position {{item.position}}
-            span.startDate {{item.startDate.strftime('%B %Y')}}
+            span.startDate {{format_date(item.startDate)}}
             |  to 
-            span.endDate {{item.endDate.strftime('%B %Y')}}
+            span.endDate {{format_date(item.endDate)}}
             ul.highlights
               for highlight in item.highlights
                 li {{highlight}}

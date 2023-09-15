@@ -14,9 +14,16 @@ jinja_env = jinja2.Environment(
 )
 
 
+def format_date(date_or_string):
+    if isinstance(date_or_string, str):
+        return date_or_string
+    else:
+        return date_or_string.strftime('%B %Y')
+
+
 def render(data):
     template = jinja_env.get_template("template.pug")
-    content = template.render(**data)
+    content = template.render(format_date=format_date, **data)
     return content
 
 
