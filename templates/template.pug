@@ -20,11 +20,14 @@ html(lang="en")
           h1 {{basics.name}}
           blockquote {{basics.summary}}
           .contact
+            strong Email: 
             span.detail
               a(href='mailto:{{basics.email}}') {{basics.email}}
           .contact
+            strong Phone: 
             span.detail {{basics.phone}}
           .contact
+            strong Location: 
             span.detail {{basics.location.city}}, {{basics.location.countryCode}}
 
         for profile in basics.profiles
