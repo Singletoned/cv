@@ -32,9 +32,9 @@ html(lang="en")
 
         for profile in basics.profiles
           .profile
-            strong.network {{profile.network}}
-          span.username
-            a(href='{{profile.url}}') {{profile.url}}
+            strong.network {{profile.network}}: 
+            span.url
+              a(href='{{profile.url}}') {{profile.url}}
 
       section.experience
         h2 Experience
