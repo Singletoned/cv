@@ -14,6 +14,9 @@ basics:
   - network: GitHub
     username: Singletoned
     url: https://github.com/Singletoned
+  - network: LinkedIn
+    username: Singletoned
+    url: https://www.linkedin.com/in/singletoned/
 
 work:
 
