@@ -34,7 +34,7 @@ work:
   - Building sustainably fast-paced practices, and developer-focused libraries to
     support them
   - Team leading and mentoring
-  - 'Tech used: Python, Django, Docker, React, JavaScript, REST, PostgreSQL, DevOps, Terraform, AWS'
+  - 'Tech used: Python, Django, Docker, React, JavaScript, REST, PostgreSQL, DevOps, Terraform, AWS, CI/CD'
 
 - name: Covid Taskforce, Cabinet Office
   position: Lead Python Developer (Contract)
@@ -47,7 +47,7 @@ work:
   - Architected and led development of a data science platform for collecting data and building charts
   - Scraped foreign Omicron data and got it onto the PM's desk within hours of asking
   - Trained and mentored data scientists in software engineering best practices
-  - "Tech used: Python, Pandas, Django, JavaScript, Celery, Redis, Docker, PostgreSQL, REST, FastAPI, SQLAlchemy, AWS, microservices"
+  - "Tech used: Python, Pandas, Django, JavaScript, Celery, Redis, Docker, PostgreSQL, REST, FastAPI, SQLAlchemy, AWS, CI/CD, microservices"
 
 - name: Institute for Apprenticeships
   position: Lead Python Developer (Contract)
@@ -72,7 +72,7 @@ work:
   highlights:
   - Architected and built a system for handling asynchronous data from an offline first mobile application deployed to artisanal diamond miners in Africa
   - Built and supported backend app to receive data, handle buying of diamonds, and put data onto a sister blockchain app
-  - "Tech used: Python, GraphQL, JavaScript, React, Docker, CI/CD, Heroku, Azure, AWS"
+  - "Tech used: Python, GraphQL, JavaScript, React, Docker, CI/CD, Heroku, Azure, CI/CD"
 
 - name: Department of International Trade
   position: Tech Lead (Contract)
@@ -100,7 +100,7 @@ work:
   - Architected and developed a data science platform for parallel, distributed simulations of the platform against historical data
   - Architected and developed market simulator API to imitate market based on historical data
   - Led on architecture, quality and mentoring
-  - "Tech used: Python, Docker, Django, REST, SQLAlchemy, Pandas, Celery, RabbitMQ, Ansible, PostgreSQL, Redis, Jenkins, AWS, microservices"
+  - "Tech used: Python, Docker, Django, REST, SQLAlchemy, Pandas, Celery, RabbitMQ, Ansible, PostgreSQL, Redis, Jenkins, AWS, CI/CD, microservices"
 
 - name: Digital Catapult
   location: Kings Cross, London
@@ -109,7 +109,7 @@ work:
   startDate: 2015-11-16
   endDate: 2015-06-17
   highlights:
-  - "Tech used: Python, Tornado, BlazeGraph, RDF, Behave, Flask, Bamboo, Docker, AWS"
+  - "Tech used: Python, Tornado, BlazeGraph, RDF, Behave, Flask, Bamboo, Docker, AWS, CI/CD"
 
 - name: Global Radio
   location: Leicester Square, London
@@ -127,7 +127,7 @@ work:
   startDate: '2014'
   endDate: '2014'
   highlights:
-  - "Tech used: Python, Docker, PostgreSQL, Redis, Celery, AWS"
+  - "Tech used: Python, Docker, PostgreSQL, Redis, Celery, AWS, CI/CD"
 
 - name: Believe.in
   location: Whitechapel, London
@@ -136,7 +136,7 @@ work:
   startDate: '2014'
   endDate: '2014'
   highlights:
-  - "Tech used: Python, Django, Memcache, PostgreSQL, Pandas, Stripe, AWS"
+  - "Tech used: Python, Django, Memcache, PostgreSQL, Pandas, Stripe, AWS, CI/CD"
 
 - name: Newman Online
   location: Soho, London
