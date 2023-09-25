@@ -100,7 +100,7 @@ work:
   - Architected and developed a data science platform for parallel, distributed simulations of the platform against historical data
   - Architected and developed market simulator API to imitate market based on historical data
   - Led on architecture, quality and mentoring
-  - "Tech used: Python, Docker, Django, REST, SQLAlchemy, Pandas, Celery, RabbitMQ, Ansible, PostgreSQL, Redis, Jenkins, AWS, CI/CD, microservices"
+  - "Tech used: Python, Docker, Django, REST, SQLAlchemy, Pandas, Celery, RabbitMQ, Ansible, PostgreSQL, Redis, Jenkins, AWS, CI/CD, microservices, Scikit-learn"
 
 - name: Digital Catapult
   location: Kings Cross, London
