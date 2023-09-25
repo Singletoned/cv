@@ -47,7 +47,7 @@ work:
   - Architected and led development of a data science platform for collecting data and building charts
   - Scraped foreign Omicron data and got it onto the PM's desk within hours of asking
   - Trained and mentored data scientists in software engineering best practices
-  - "Tech used: Python, Pandas, Django, JavaScript, Celery, Redis, Docker, PostgreSQL, REST, FastAPI, SQLAlchemy, AWS, CI/CD, microservices"
+  - "Tech used: Python, Pandas, Django, JavaScript, Celery, Redis, Docker, PostgreSQL, REST, FastAPI, SQLAlchemy, AWS, CI/CD, web-scraping, microservices"
 
 - name: Institute for Apprenticeships
   position: Lead Python Developer (Contract)
@@ -85,7 +85,7 @@ work:
   - Worked on data collection project; engineering a data transformation and syncing service
   - Built website, and integrated with data-science platform, and UN Comtrade Data and WorldBank Data
   - Led on dockerisation of other websites
-  - "Tech used: Python, Docker, Django, Pandas, REST, PostgreSQL, Redis, AWS, CI/CD"
+  - "Tech used: Python, Docker, Django, Pandas, REST, PostgreSQL, Redis, AWS, data-scraping, CI/CD"
 
 - name: Hitachi Consulting
   position: Lead Software Engineer (Contract)
