@@ -176,15 +176,29 @@ work:
 
 
 skills:
-- name: Python Development
+
+- name: Software Engineering
   level: Master
   keywords:
-  - Python
   - Git
   - Emacs
+  - CI/CD
+  - GitHub/Gitlab
+  - Touch typing
+
+- name: Testing
+  level: Master
+  keywords:
+  - TDD
+  - Unit testing
+  - Integration testing
+  - Pytest/nose
+
 - name: Web Development
   level: Master
   keywords:
   - HTML
   - CSS
   - Javascript
+  - Accessibility
+  - Web standards
