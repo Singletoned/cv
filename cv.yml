@@ -106,8 +106,8 @@ work:
   location: Kings Cross, London
   position: Senior Python Developer
   description: Graph database for copyright licences
-  startDate: 2015-11-16
-  endDate: 2015-06-17
+  startDate: 2015-06-17
+  endDate: 2015-11-15
   highlights:
   - "Tech used: Python, Tornado, BlazeGraph, RDF, Behave, Flask, Bamboo, Docker, AWS, CI/CD"
 
