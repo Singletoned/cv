@@ -23,6 +23,7 @@
             }
             section {
               margin: 1em 0 2em;
+	      page-break-inside: avoid;
             }
             blockquote {
               margin: 0;
