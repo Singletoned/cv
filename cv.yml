@@ -34,7 +34,7 @@ work:
   - Building sustainably fast-paced practices, and developer-focused libraries to
     support them
   - Team leading and mentoring
-  - 'Tech used: Python, Django, Docker, React, JavaScript, REST, PostgreSQL, DevOps, Terraform, AWS, CI/CD'
+  - 'Tech used: Python, Django, Docker, React, JavaScript, REST, PostgreSQL, DevOps, Terraform, AWS, CI/CD, event-sourcing'
 
 - name: Covid Taskforce, Cabinet Office
   position: Lead Python Developer
@@ -47,7 +47,7 @@ work:
   - Architected and led development of a data science platform for collecting data and building charts
   - Scraped foreign Omicron data and got it onto the PM's desk within hours of asking
   - Trained and mentored data scientists in software engineering best practices
-  - "Tech used: Python, Pandas, Django, JavaScript, Celery, Redis, Docker, PostgreSQL, REST, FastAPI, SQLAlchemy, AWS, CI/CD, web-scraping, microservices"
+  - "Tech used: Python, Pandas, Flask, JavaScript, Celery, Redis, Docker, PostgreSQL, REST, FastAPI, SQLAlchemy, AWS, CI/CD, web-scraping, microservices"
 
 - name: Institute for Apprenticeships
   position: Lead Python Developer
@@ -72,7 +72,7 @@ work:
   highlights:
   - Architected and built a system for handling asynchronous data from an offline first mobile application deployed to artisanal diamond miners in Africa
   - Built and supported backend app to receive data, handle buying of diamonds, and put data onto a sister blockchain app
-  - "Tech used: Python, GraphQL, JavaScript, React, Docker, CI/CD, Heroku, Azure, CI/CD"
+  - "Tech used: Python, GraphQL, JavaScript, React, Docker, CI/CD, Heroku, Azure, event-sourcing, CI/CD"
 
 - name: Department of International Trade
   position: Tech Lead
