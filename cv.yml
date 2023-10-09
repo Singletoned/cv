@@ -72,7 +72,7 @@ work:
   highlights:
   - Architected and built a system for handling asynchronous data from an offline first mobile application deployed to artisanal diamond miners in Africa
   - Built and supported backend app to receive data, handle buying of diamonds, and put data onto a sister blockchain app
-  - "Tech used: Python, GraphQL, JavaScript, React, Docker, CI/CD, Heroku, Azure, event-sourcing, CI/CD"
+  - "Tech used: Python, GraphQL, JavaScript, React, Docker, CI/CD, Heroku, Azure, event-sourcing, CI/CD, BDD"
 
 - name: Department of International Trade
   position: Tech Lead
@@ -100,7 +100,7 @@ work:
   - Architected and developed a data science platform for parallel, distributed simulations of the platform against historical data
   - Architected and developed market simulator API to imitate market based on historical data
   - Led on architecture, quality and mentoring
-  - "Tech used: Python, Docker, Flask, REST, SQLAlchemy, Pandas, Celery, RabbitMQ, Ansible, PostgreSQL, Redis, Jenkins, AWS, CI/CD, microservices, Scikit-learn"
+  - "Tech used: Python, Docker, Flask, REST, SQLAlchemy, Pandas, Celery, RabbitMQ, Ansible, PostgreSQL, Redis, Jenkins, AWS, CI/CD, microservices, Scikit-learn, BDD"
 
 - name: Digital Catapult
   location: Kings Cross, London
