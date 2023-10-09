@@ -52,3 +52,14 @@ html(lang="en")
             ul.highlights
               for highlight in item.highlights
                 li {{highlight}}
+
+      section.skills
+        h2 General skills
+        for item in skills
+          section.item
+            h3 {{item.name}}
+            div
+              for kw in item.keywords
+                span.keyword {{kw}}
+                if not loop.last
+                  | , 
