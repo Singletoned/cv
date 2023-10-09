@@ -21,7 +21,7 @@ basics:
 work:
 
 - name: i.AI for Prime Ministers Delivery Group, Cabinet Office
-  position: Lead Technologist (Contract)
+  position: Lead Technologist
   location: Westminster, London
   description: Disruptive development inside Government
   startDate: 2022-04-01
@@ -37,7 +37,7 @@ work:
   - 'Tech used: Python, Django, Docker, React, JavaScript, REST, PostgreSQL, DevOps, Terraform, AWS, CI/CD'
 
 - name: Covid Taskforce, Cabinet Office
-  position: Lead Python Developer (Contract)
+  position: Lead Python Developer
   location: Westminster, London
   description: Saving the country, one chart at a time
   startDate: 2020-11-01
@@ -50,7 +50,7 @@ work:
   - "Tech used: Python, Pandas, Django, JavaScript, Celery, Redis, Docker, PostgreSQL, REST, FastAPI, SQLAlchemy, AWS, CI/CD, web-scraping, microservices"
 
 - name: Institute for Apprenticeships
-  position: Lead Python Developer (Contract)
+  position: Lead Python Developer
   location: Victoria, London
   description: Refactoring a large system built by non-engineers
   startDate: 2018-11-12
@@ -63,7 +63,7 @@ work:
   - "Tech used: Python, Pandas, Django, Azure, Docker, PostgreSQL, DevOps, CI/CD"
 
 - name: Boston Consulting Group Digital Ventures / De Beers
-  position: Lead Software Engineer (Contract)
+  position: Lead Software Engineer
   location: Soho, London
   description: Ethical artisanal diamond mining tracking app
   startDate: 2017-12-04
@@ -75,7 +75,7 @@ work:
   - "Tech used: Python, GraphQL, JavaScript, React, Docker, CI/CD, Heroku, Azure, CI/CD"
 
 - name: Department of International Trade
-  position: Tech Lead (Contract)
+  position: Tech Lead
   location: Westminster, London
   description: Integrating data, prototyping websites
   startDate: 2017-01-23
@@ -88,7 +88,7 @@ work:
   - "Tech used: Python, Docker, Django, Pandas, REST, PostgreSQL, Redis, AWS, data-scraping, CI/CD"
 
 - name: Hitachi Consulting
-  position: Lead Software Engineer (Contract)
+  position: Lead Software Engineer
   location: Maidenhead, Berkshire
   description: Energy market trading prototype
   startDate: 2015-11-16
@@ -104,7 +104,7 @@ work:
 
 - name: Digital Catapult
   location: Kings Cross, London
-  position: Senior Python Developer (Contract)
+  position: Senior Python Developer
   description: Graph database for copyright licences
   startDate: 2015-11-16
   endDate: 2015-06-17
@@ -113,7 +113,7 @@ work:
 
 - name: Global Radio
   location: Leicester Square, London
-  position: Senior Python Developer (Contract)
+  position: Senior Python Developer
   description: Websites for radio stations
   startDate: 2014-11-11
   endDate: 2015-06-16
